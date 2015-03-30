@@ -8,7 +8,7 @@ Number of persons in a circle: 9<br>
 Step: 5<br>
 
           place index: 0 1 2 3 4 5 6 7 8 
-     	 person number: 1 2 3 4 5 6 7 8 9	initial condition
+        person number: 1 2 3 4 5 6 7 8 9	initial condition
      next_alive_index: 1 2 3 4 5 6 7 8 9
 
 
