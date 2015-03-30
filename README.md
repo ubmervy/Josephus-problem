@@ -1,6 +1,6 @@
 # Josephus-problem
 
-The problem is named after Flavius Josephus, a Jewish historian living in the 1st century. According to Josephus' account of the siege of Yodfat, he and his 40 soldiers were trapped in a cave, the exit of which was blocked by Romans. They chose suicide over capture and decided that they would form a circle and start killing themselves using a step of three. Josephus states that by luck or possibly by the hand of God, he and another man remained the last and gave up to the Romans.
+The problem is named after Flavius Josephus, a Jewish historian living in the 1st century. According to Josephus' account of the siege of Yodfat, he and his 40 soldiers were trapped in a cave, the exit of which was blocked by Romans. They chose suicide over capture and decided that they would form a circle and start killing themselves using a step of three. Josephus states that by luck or possibly by the hand of God, he and another man remained the last and gave up to the Romans... [http://en.wikipedia.org/wiki/Josephus_problem](http://en.wikipedia.org/wiki/Josephus_problem)
 
 ###Test example
 
