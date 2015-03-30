@@ -4,14 +4,14 @@ The problem is named after Flavius Josephus, a Jewish historian living in the 1s
 
 ###Test example
 
-Enter the number of persons in a circle:
+Enter the number of persons in a circle:<br>
 9
-Enter a step:
-5
+Enter a step:<br>
+5<br>
 
-       place index: 0 1 2 3 4 5 6 7 8 
+       ```place index: 0 1 2 3 4 5 6 7 8 
      person number: 1 2 3 4 5 6 7 8 9 	initial condition
-  next_alive_index: 1 2 3 4 5 6 7 8 9 
+ ``` next_alive_index: 1 2 3 4 5 6 7 8 9 ```
 
 
        place index: 0 1 2 3 4 5 6 7 8 
